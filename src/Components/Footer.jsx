@@ -5,7 +5,7 @@ function Footer() {
     return (
         <footer>
             <div className="container footer-container">
-                <a className="end">Psi raj - wszelkie prawa zastrzeżone, 2022</a>
+                <p className="end">Psi raj - wszelkie prawa zastrzeżone, 2022</p>
 
                 <ul className="footer_list">
                            
