@@ -150,6 +150,10 @@ header {
     transition-duration: .5s;
     transition-property: all;
 }
+
+.serviceIsNew {
+    font-size: 18px;
+}
 .box:hover {
     transform: scale(1.05);  
 }
