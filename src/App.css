@@ -41,6 +41,7 @@ nav {
     cursor: not-allowed;     
 }
 header {
+    background-image: url(Components/Assets/pieski.jpg);
     width: 100%;
     height: calc(100vh - 50px);
     background-size: cover;

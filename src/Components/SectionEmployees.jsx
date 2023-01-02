@@ -1,7 +1,7 @@
 import Employee from "./Employee";
 import React from "react";
-import pies1 from './pies1.jpg';
-import pies2 from './pies2.png';
+import pies1 from './Assets/pies1.jpg';
+import pies2 from './Assets/pies2.png';
 
 const employees = [
     {

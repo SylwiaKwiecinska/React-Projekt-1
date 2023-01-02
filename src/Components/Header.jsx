@@ -1,6 +1,6 @@
 function Header() {
     return(
-        <header style={{backgroundImage: "url('https://i.iplsc.com/-/000DXXFPTDEXHLK1-C411.jpg')"}}>
+        <header>
            
             <div className="container">
             
