@@ -28,12 +28,13 @@ function App() {
         <p style={{ fontFamily: "Roboto Mono, monospaced" }}></p>
         <p style={{ fontFamily: "Roboto, sans-serif" }}></p>
 
-        <Navigation />
-        <Header />
-        <SectionEmployees />
-        <SectionServices />
-        <Footer />
+        
       </>
+      <Navigation />
+      <Header />
+      <SectionEmployees />
+      <SectionServices />
+      <Footer />
     </div>
   );
 }
