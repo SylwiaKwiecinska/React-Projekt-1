@@ -27,8 +27,6 @@ function App() {
 
         <p style={{ fontFamily: "Roboto Mono, monospaced" }}></p>
         <p style={{ fontFamily: "Roboto, sans-serif" }}></p>
-
-        
       </>
       <Navigation />
       <Header />
